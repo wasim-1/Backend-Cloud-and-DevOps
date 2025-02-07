@@ -3,6 +3,8 @@ let y = 20;
 let z = 5;
 let a = 10;
 
+
+
 // Comparison Operators
 console.log("x < y", x < y); // x is less than y (10 < 20) - true
 console.log("x > z", x > z); // x is greater than z (10 > 5) - true
